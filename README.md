@@ -1,7 +1,7 @@
 # Labspy02
 
 # ini flowchart untuk menghitung bilangan terbesar 
-![gambar1](screanshot/Flowchart.PNG)
+![gambar1](screanshot/Flowchart.png)
 
 
 # ini listing programnya 
